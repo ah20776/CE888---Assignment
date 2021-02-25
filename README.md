@@ -1,4 +1,4 @@
-# Data Science and Decision Making (CE888)---Assignment 1
+# Data Science and Decision Making (CE888)--Assignment 1
 
 Project Title: Black police arresting Whites? : A Machine Learning approach on Ethnicity in Policing
 
